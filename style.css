@@ -1,0 +1,51 @@
+.logo{
+   color: white;
+   background-color: black;
+   display: inline;
+}
+
+.menu{
+    background-color: blueviolet;
+    
+}
+
+.tabs{
+    font-size: 200%;
+    color: white;
+    font
+}
+
+.just{
+   top: 10%;
+   color: white;
+   font-size: smaller;
+   margin-bottom: 
+
+   
+}
+
+.despec{
+   color: white;
+   background-color:  rgb(108, 14, 196);
+  background-position: left;
+  background-origin: padding-box;
+}
+.des1{
+    color: white;
+    font-size: 180%;
+    padding-left: 10%;
+}
+
+.des2{
+    color: white;
+    padding-left: 13%;
+    background-color: rgb(108, 14, 196);
+    background-size: 50%;
+    font-size: 180%;
+}
+
+.lorem{
+    font-size: large;
+    
+}
+
